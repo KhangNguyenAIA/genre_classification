@@ -1,0 +1,27 @@
+{
+    "os": "Linux-4.4.0-19041-Microsoft-x86_64-with-glibc2.10",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-01-30T16:44:10.310966",
+    "startedAt": "2022-01-30T16:44:09.185009",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/KhangNguyenAIA/genre_classification.git",
+        "commit": "2ede3c84087e918af3b50341b5e044fa6ea7faf9"
+    },
+    "email": "khang.ng.aia@gmail.com",
+    "root": "/home/khangng/Documents/learn/genre_classification",
+    "host": "DESKTOP-UTN1K76",
+    "username": "khangng",
+    "executable": "/home/khangng/miniconda3/envs/mlflow-94d387fbcd57357b6ff3090aac27b9f4f39ce641/bin/python"
+}

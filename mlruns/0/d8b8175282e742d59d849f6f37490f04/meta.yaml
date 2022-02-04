@@ -1,0 +1,15 @@
+artifact_uri: file:///home/khangng/Documents/learn/genre_classification/mlruns/0/d8b8175282e742d59d849f6f37490f04/artifacts
+end_time: 1643546562529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d8b8175282e742d59d849f6f37490f04
+run_uuid: d8b8175282e742d59d849f6f37490f04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643546561907
+status: 4
+tags: []
+user_id: khangng
